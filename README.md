@@ -1,0 +1,1 @@
+this is a small python script that reports cpu temperature to server, I made this for my personal uses but feel free to use it too.
